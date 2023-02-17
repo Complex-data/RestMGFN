@@ -8,10 +8,4 @@ pip3 install -r requirements.txt
 ```
 
 
-## Train models and Evaluate the performance
-``` bash
-python3 main.py
-```
-
-
 
